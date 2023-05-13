@@ -1,0 +1,9 @@
+C:\Users\sziha\OneDrive\Desktop\VizsgaGyak\c#\javitasEauto\javitasEauto\bin\Debug\eu_word_hibas.csv
+C:\Users\sziha\OneDrive\Desktop\VizsgaGyak\c#\javitasEauto\javitasEauto\bin\Debug\javitasEauto.exe.config
+C:\Users\sziha\OneDrive\Desktop\VizsgaGyak\c#\javitasEauto\javitasEauto\bin\Debug\javitasEauto.exe
+C:\Users\sziha\OneDrive\Desktop\VizsgaGyak\c#\javitasEauto\javitasEauto\bin\Debug\javitasEauto.pdb
+C:\Users\sziha\OneDrive\Desktop\VizsgaGyak\c#\javitasEauto\javitasEauto\obj\Debug\javitasEauto.csproj.AssemblyReference.cache
+C:\Users\sziha\OneDrive\Desktop\VizsgaGyak\c#\javitasEauto\javitasEauto\obj\Debug\javitasEauto.csproj.SuggestedBindingRedirects.cache
+C:\Users\sziha\OneDrive\Desktop\VizsgaGyak\c#\javitasEauto\javitasEauto\obj\Debug\javitasEauto.csproj.CoreCompileInputs.cache
+C:\Users\sziha\OneDrive\Desktop\VizsgaGyak\c#\javitasEauto\javitasEauto\obj\Debug\javitasEauto.exe
+C:\Users\sziha\OneDrive\Desktop\VizsgaGyak\c#\javitasEauto\javitasEauto\obj\Debug\javitasEauto.pdb
