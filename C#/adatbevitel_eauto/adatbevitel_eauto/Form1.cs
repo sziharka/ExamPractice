@@ -28,6 +28,7 @@ namespace adatbevitel_eauto
             string hagyomanyos = tbHagyomanyos.Text;
             string id = tbId.Text;
 
+            //string parancs = "UPDATE eu_world set elektromos= " + elektromos + ", hagyomanyos =" + hagyomanyos + " WHERE ev = " + ev;
             string parancs = "INSERT eu_world set elektromos= " + elektromos + ", hagyomanyos =" + hagyomanyos + ", ev = " + ev + ", id=" + id;
 
             MySqlConnection adatbKapcsolat = new MySqlConnection(kapcsolatString);
